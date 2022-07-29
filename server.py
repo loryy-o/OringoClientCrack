@@ -29,5 +29,13 @@ def hook2():
     print("---------------------")
     return "1", 200
 
+@app.route("/crack/<id>", methods=["GET", "POST"])
+def hook3(id):
+    print("[HOOK_3] Tried to send data to server, intercepted.")
+    print("------- Data: -------")
+    print(id)
+    print("---------------------")
+    return "1", 200
+
 
 app.run(host='0.0.0.0', port=80)
