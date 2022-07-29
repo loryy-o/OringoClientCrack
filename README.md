@@ -26,7 +26,6 @@ A: While it's not really needed as the rat won't work if you appear as whitelist
 **Q: Can i use it with version [insert random version]?**\
 \
 A: You probably can, but unless it's specifically stated in this README, Oringo might've changed the authentication process, making the crack unusable.\
-\
 
 ## Supported Versions
 - 1.8.1 and previous
@@ -36,6 +35,6 @@ A: You probably can, but unless it's specifically stated in this README, Oringo 
 |----------------------|------------------------------|
 | Me                   | I'm too smart 😎💪          |
 | fe                   | Moral support and motivation |
-| Anonymous Donator    | Providing me with Oringo jar |
+| Anonymous Donator    | Providing the Oringo jar     |
 | Pizza Client Discord | Being amazing                |
 | Oringo               | Making the client            |
