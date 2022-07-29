@@ -5,7 +5,7 @@ This program allows you to use any version of Oringo Client Supporter without be
 
 ## Requirements
 - Python >= 3
-- Oringo Client Supporter jar (Contact me if you need it, I can't provide it here as every jar is tied to the buyer)
+- Oringo Client Supporter jar (Get it yourself lmao retard)
 - 2 IQ
 
 ## Installation & Usage
