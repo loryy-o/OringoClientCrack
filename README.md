@@ -18,7 +18,7 @@ This program allows you to use any version of Oringo Client Supporter without be
 ## FAQ
 **Q: Does this block the rat?**\
 \
-A: There is no need to block the rat, since there is no actual connection to the server.
+A: There is no need to block the rat, since there is no actual connection to the server.\
 \
 **Q: iS tHiS a RaT?**\
 \
