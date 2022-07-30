@@ -1,0 +1,16 @@
+[
+{
+  "modid": "5zig",
+  "name": "Oringo Client Crack",
+  "description": "(almost) universal crack for Oringo Supporter",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/WheresMyDignity/OringoClientCrack",
+  "updateUrl": "",
+  "authorList": ["Lory", "fe"],
+  "credits": "my mom",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
