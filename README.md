@@ -36,5 +36,4 @@ A: You probably can, but unless it's specifically stated in this README, Oringo 
 | Me                   | I'm too smart 😎💪          |
 | fe                   | Moral support and motivation |
 | Anonymous Donator    | Providing the Oringo jar     |
-| Pizza Client Discord | Being amazing                |
 | Oringo               | Making the client            |
