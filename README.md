@@ -22,11 +22,11 @@ A: There is no need to block the rat, since there is no actual connection to the
 \
 **Q: iS tHiS a RaT?**\
 \
-A: read the source???
+A: read the source???\
 \
 **Q: Can I use it with version [insert random version]?**\
 \
-A: You probably can, but unless it's specifically stated in this README, Oringo might've changed the authentication process, making the crack unusable.\
+A: You probably can, but unless it's specifically stated in this README, Oringo might've changed the authentication process, making the crack unusable.
 
 ## Supported Versions
 - 1.8.1 and previous
