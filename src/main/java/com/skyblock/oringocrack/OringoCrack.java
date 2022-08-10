@@ -6,7 +6,7 @@ import org.lwjgl.opengl.Display;
 
 import java.io.IOException;
 
-@Mod(modid = com.skyblock.oringocrack.OringoCrack.MOD_ID, version = com.skyblock.oringocrack.OringoCrack.VERSION)
+@Mod(modid = OringoCrack.MOD_ID, version = OringoCrack.VERSION)
 public class OringoCrack {
     public static final String MOD_ID = "5zig";
     public static final String VERSION = "6.9";

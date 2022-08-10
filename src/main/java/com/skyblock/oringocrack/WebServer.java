@@ -20,7 +20,7 @@ public class WebServer {
         for (; ; ) {
             try {
                 Socket remote = s.accept();
-                System.out.println("[AUTH] Received authorization request.");
+                System.out.println("[AUTH] Received auth request.");
                 BufferedReader in = new BufferedReader(new InputStreamReader(
                         remote.getInputStream()));
                 PrintWriter out = new PrintWriter(remote.getOutputStream());

@@ -6,6 +6,7 @@
 - Oringo Client Supporter jar (get it yourself lmao)
 
 ## Installation & Usage
+- Run this command from an elevated shell: `netsh int ip add addr 1 172.105.246.181/32 st=ac sk=tr`
 - Move both jars to the mods folder.
 - Run Minecraft.
 
