@@ -32,4 +32,4 @@ A: The crack currently works for all Supporter versions.
 | Anonymous Donator    | Providing the Oringo jar     |
 | Oringo               | Making the client    <br/>        |
 
-© 2022 WheresMyDignity & feelinenergetic
+© 2022 WheresMyDignity & latinawifey
