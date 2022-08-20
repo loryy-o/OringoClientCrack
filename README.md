@@ -1,5 +1,10 @@
 <h1 align="center">Oringo Client Supporter Universal Crack</h1>
-<p align="center">A mod that allows you to use any version of Oringo Client Supporter without being whitelisted in any way</p>
+<p align="center">A mod that allows you to use (almost) any version of Oringo Client Supporter without being whitelisted in any way</p>
+
+## Warning!
+The latest Oringo Client version is not yet supported.
+Using it will result in your account name being changed to a racial slur, and you will be automatically banned from hypixel.
+Please, wait for us to release a new version.
 
 ## Warning!
 Although there is no actual connection to the server,
