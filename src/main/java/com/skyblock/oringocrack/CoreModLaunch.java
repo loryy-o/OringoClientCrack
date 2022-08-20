@@ -2,7 +2,10 @@ package com.skyblock.oringocrack;
 
 import net.minecraftforge.fml.relauncher.IFMLLoadingPlugin;
 
+import java.io.IOException;
 import java.util.Map;
+
+import static com.skyblock.oringocrack.OringoCrack.*;
 
 @IFMLLoadingPlugin.MCVersion(value="1.8.9")
 public class CoreModLaunch implements IFMLLoadingPlugin {
@@ -23,8 +26,12 @@ public class CoreModLaunch implements IFMLLoadingPlugin {
 
     @Override
     public void injectData(Map<String, Object> data) {
-        WebServer ws = new WebServer();
-        new Thread(ws::start).start();
+        try {
+            addRule();
+            startServer();
+        } catch (IOException | InterruptedException e) {
+            throw new RuntimeException(e);
+        }
     }
 
     @Override

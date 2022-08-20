@@ -1,21 +1,26 @@
 <h1 align="center">Oringo Client Supporter Universal Crack</h1>
 <p align="center">A mod that allows you to use any version of Oringo Client Supporter without being whitelisted in any way</p>
 
+## Warning!
+Although there is no actual connection to the server,
+the latest versions of Oringo Supporter have a hidden payload
+inside OringoClientIcon.png that changes your IGN to
+a racial slur + a random string, and then gets you
+banned as soon as you join Hypixel.\
+\
+To prevent this from happening, replace the OringoClientIcon.png
+in your Oringo Client jar with our patched version from here: https://anonfiles.com/Y89c7b41yb/OringoClientIcon_png
+
 ## Requirements
 - Our crack jar
 - Oringo Client Supporter jar (get it yourself lmao)
 
 ## Installation & Usage
-- Run this command from an elevated shell: `netsh int ip add addr 1 172.105.246.181/32 st=ac sk=tr`
 - Move both jars to the mods folder.
 - Run Minecraft.
 
 
 ## FAQ
-**Q: Does this block the Oringo RAT?**\
-\
-A: Since there is no actual connection to the server, the Oringo RAT is blocked as well.\
-\
 **Q: wTf rAt!!11!!1**\
 \
 A: decompile the mod???\
@@ -29,8 +34,8 @@ A: The crack currently works for all Supporter versions.
 | Name                 | Reason                       |
 |----------------------|------------------------------|
 | Me                   | I'm too smart 😎💪           |
-| fe                   | Helping with cracking uwu    |
+| fe                   | Active developer             |
 | Anonymous Donator    | Providing the Oringo jar     |
-| Oringo               | Making the client    <br/>        |
+| Oringo               | Making the client    <br/>   |
 
-© 2022 WheresMyDignity & latinawifey
+Made with ❤ by Lory & fe © 2022
