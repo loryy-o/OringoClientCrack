@@ -1,6 +1,11 @@
 <h1 align="center">Oringo Client Supporter Universal Crack</h1>
 <p align="center">A mod that allows you to use (almost) any version of Oringo Client Supporter without being whitelisted in any way</p>
 
+## Notice
+The crack is currently not maintained, and it probably does not work anymore
+as the client now uses a loader (which drops the actual jar in your temp folder lmao)
+and i cannot be bothered to update it.
+
 ## Warning!
 Although there is no actual connection to the server,
 the latest versions of Oringo Supporter have a hidden payload
